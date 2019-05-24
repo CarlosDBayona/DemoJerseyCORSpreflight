@@ -9,5 +9,8 @@
         <module name="JwtAuthentication" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JwtAuthentication" target="6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
